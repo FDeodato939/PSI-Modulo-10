@@ -1,0 +1,12 @@
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\Interface1\Interface1\obj\Debug\Interface1.csproj.AssemblyReference.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\Interface1\Interface1\obj\Debug\Interface1.csproj.SuggestedBindingRedirects.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\Interface1\Interface1\obj\Debug\Interface1.Form1.resources
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\Interface1\Interface1\obj\Debug\Interface1.Form2.resources
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\Interface1\Interface1\obj\Debug\Interface1.Properties.Resources.resources
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\Interface1\Interface1\obj\Debug\Interface1.csproj.GenerateResource.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\Interface1\Interface1\obj\Debug\Interface1.csproj.CoreCompileInputs.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\Interface1\Interface1\bin\Debug\Interface1.exe.config
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\Interface1\Interface1\bin\Debug\Interface1.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\Interface1\Interface1\bin\Debug\Interface1.pdb
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\Interface1\Interface1\obj\Debug\Interface1.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\Interface1\Interface1\obj\Debug\Interface1.pdb
