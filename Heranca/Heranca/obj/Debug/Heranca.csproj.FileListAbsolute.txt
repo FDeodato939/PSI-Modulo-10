@@ -1,0 +1,8 @@
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Heranca\Heranca\bin\Debug\Heranca.exe.config
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Heranca\Heranca\bin\Debug\Heranca.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Heranca\Heranca\bin\Debug\Heranca.pdb
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Heranca\Heranca\obj\Debug\Heranca.csproj.AssemblyReference.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Heranca\Heranca\obj\Debug\Heranca.csproj.SuggestedBindingRedirects.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Heranca\Heranca\obj\Debug\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Heranca\Heranca\obj\Debug\Heranca.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\Heranca\Heranca\obj\Debug\Heranca.pdb
