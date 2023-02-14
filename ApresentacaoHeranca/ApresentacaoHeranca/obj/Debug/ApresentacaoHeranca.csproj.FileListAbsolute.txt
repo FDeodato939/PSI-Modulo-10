@@ -1,0 +1,8 @@
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\ApresentacaoHeranca\ApresentacaoHeranca\bin\Debug\ApresentacaoHeranca.exe.config
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\ApresentacaoHeranca\ApresentacaoHeranca\bin\Debug\ApresentacaoHeranca.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\ApresentacaoHeranca\ApresentacaoHeranca\bin\Debug\ApresentacaoHeranca.pdb
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\ApresentacaoHeranca\ApresentacaoHeranca\obj\Debug\ApresentacaoHeranca.csproj.AssemblyReference.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\ApresentacaoHeranca\ApresentacaoHeranca\obj\Debug\ApresentacaoHeranca.csproj.SuggestedBindingRedirects.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\ApresentacaoHeranca\ApresentacaoHeranca\obj\Debug\ApresentacaoHeranca.csproj.CoreCompileInputs.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\ApresentacaoHeranca\ApresentacaoHeranca\obj\Debug\ApresentacaoHeranca.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\ApresentacaoHeranca\ApresentacaoHeranca\obj\Debug\ApresentacaoHeranca.pdb
